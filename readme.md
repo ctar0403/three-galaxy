@@ -1,10 +1,10 @@
-# Galaxy M1199
+# Three.js Galaxy
 ---
-A cool galaxy simulation using THREE JS particles inspired by the galaxy(unanimated) made by Bruno Simon's THREE JS Journey Course. You can see the live demo at: https://galaxy-m1199.web.app
+A cool galaxy simulation using THREE JS particles
 
 ### How to run
 1. Clone or download the repository
-   `git clone https://github.com/the-halfbloodprince/GalaxyM1199.git`
+   `git clone https://github.com/ctar0403/three-galaxy.git`
 2. Open the folder in your favourite editor.
 3. Install the dependencies using:
    if you're using yarn:
@@ -24,4 +24,4 @@ Try customising and playing with the code to improve the looks and performance o
 
 You can try controlling the model without having to go into the code using the top-right dat.gui menu. It is closed by default, you can click on the button that says 'Close Controls' to open the controls. In case controls aren't working well, try another browser.
 
-##### Made by The Half Blood Prince, no not Snape, Manish.
+![2025-05-26_6-52-34](https://github.com/user-attachments/assets/2bba403d-e20e-47fa-873f-4e297a182a0f)
