@@ -1,6 +1,6 @@
 # Three.js Galaxy
 ---
-A cool galaxy simulation using THREE JS particles inspired by the galaxy made by Bruno Simon's THREE JS Journey Course.
+A cool galaxy simulation using THREE JS particles
 
 ### How to run
 1. Clone or download the repository
@@ -23,7 +23,5 @@ You're default browser will pop up with the simulation running on a new tab.
 Try customising and playing with the code to improve the looks and performance of the simulation.
 
 You can try controlling the model without having to go into the code using the top-right dat.gui menu. It is closed by default, you can click on the button that says 'Close Controls' to open the controls. In case controls aren't working well, try another browser.
-
-##### Made by The Half Blood Prince, no not Snape, Manish.
 
 ![2025-05-26_6-52-34](https://github.com/user-attachments/assets/2bba403d-e20e-47fa-873f-4e297a182a0f)
